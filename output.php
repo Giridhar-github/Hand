@@ -53,7 +53,7 @@
 fclose($myfile);
 
 echo "<h2><center>$out</center></h2>";
-			
+echo "<center><img src='./sample/$out.jpg' alt='' width='45' height='32'><center>";			
 			?>
 			
 		
